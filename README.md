@@ -7,4 +7,5 @@ Thankyou.
 
 PyPoll
 For this, please refer to the code PyBankRI.py.
-I did try to duplicate the script as I did for Pybank to write the output to a txt file, however, I found this very challenging. 
+I did try to duplicate the script as I did for Pybank to write the output to a txt file, however, I found this very challenging and could not write an appropriate script. 
+I was cognicent that this assignment is late so did not want to delay it any further due to the lateness. 
