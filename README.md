@@ -6,3 +6,5 @@ I did use Chatgpt when trying to have the script also write to a txt file, I fou
 Thankyou.
 
 PyPoll
+For this, please refer to the code PyBankRI.py.
+I did try to duplicate the script as I did for Pybank to write the output to a txt file, however, I found this very challenging. 
